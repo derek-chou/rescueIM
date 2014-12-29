@@ -1,0 +1,20 @@
+20141229 12:03:56.485 INFO     log.std - system start !!
+20141229 12:03:56.485 INFO     log.std - server : tcp://0.0.0.0:7789
+20141229 12:04:03.989 INFO     log.std - param : Q ^TWII 33.44 1111
+20141229 12:04:03.989 INFO     log.std - request : #^TWII#MQ#33.44#1111#
+20141229 12:04:03.990 INFO     log.std - reply = [success]
+20141229 13:06:00.324 INFO     log.std - param : Q ^TWII 33.44 11555
+20141229 13:06:00.324 INFO     log.std - request : #^TWII#MQ#33.44#11555#
+20141229 13:06:00.325 INFO     log.std - reply = parameter error
+20141229 13:07:42.816 INFO     log.std - param : Q ^TWII 33.44 555
+20141229 13:07:42.816 INFO     log.std - request : #^TWII#MQ#33.44#555#
+20141229 13:07:42.955 INFO     log.std - reply = [success]
+20141229 13:08:44.685 INFO     log.std - param : Q ^TWII 33.44 555
+20141229 13:08:44.685 INFO     log.std - request : #^TWII#MQ#33.44#555#
+20141229 13:08:44.835 INFO     log.std - reply = [success]
+20141229 13:11:26.124 INFO     log.std - param : Q ^TWII 44.55 66
+20141229 13:11:26.124 INFO     log.std - request : #^TWII#MQ#44.55#66#
+20141229 13:11:26.262 INFO     log.std - reply = [success]
+20141229 13:13:33.133 INFO     log.std - param : T ^TWII 77.88 99
+20141229 13:13:33.133 INFO     log.std - request : #^TWII#MT#77.88#99#
+20141229 13:13:33.165 INFO     log.std - reply = [success]
